@@ -8,7 +8,7 @@
     "build": "gulp build --production",
     "lint-styles": "stylelint './src/sass/**/*.scss' --syntax scss --fix"
   },
-  "homepage": "https://luxplanjay.github.io/gulp-boilerplate",
+  "homepage": "https://vladimirkostroba.github.io/portfolio",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luxplanjay/gulp-boilerplate.git"
